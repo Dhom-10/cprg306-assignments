@@ -21,8 +21,7 @@ export default function Home() {
             Week 4
           </Link>
         </li>
-
-        {/* ✅ Add this */}
+        
         <li>
           <Link className="text-blue-600 underline" href="/week-5">
             Week 5
